@@ -35,8 +35,6 @@ pip install yfinance bs4 pandas plotly
    ```
 3. Run the `Final Assignment.ipynb` file in Jupyter Notebook.
 
-## Screenshots
-
 The notebook contains visualizations of stock prices and revenue trends for Tesla and GameStop. Ensure you include screenshots as part of your submission.
 
 ## Submission
